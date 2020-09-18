@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ISA"
+    name="ISA applications"
     id="id-93e5509b14b94754b7de1b49e3a23d23">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -50,6 +50,15 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-b461c8be630c47e6a2cae6bb608af14a.xml#id-b461c8be630c47e6a2cae6bb608af14a"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1fd1448be9ed43549c0bb836e98d19eb"
+        source="id-0a1a4a3d568e4093af488852931aada9"
+        target="id-3d041fa4792149888f8d12b2262743bf">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-8478901f154e405880fb3c75d2248867.xml#id-8478901f154e405880fb3c75d2248867"/>
     </sourceConnections>
     <bounds
         x="624"
@@ -120,6 +129,19 @@
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
           href="ApplicationProcess_id-d5014358a5fb4666b8e760e3bcb762a9.xml#id-d5014358a5fb4666b8e760e3bcb762a9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3d041fa4792149888f8d12b2262743bf"
+        targetConnections="id-1fd1448be9ed43549c0bb836e98d19eb">
+      <bounds
+          x="180"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationInterface"
+          href="ApplicationInterface_id-123d2dd1388e4667b5d3d4460e80cf7e.xml#id-123d2dd1388e4667b5d3d4460e80cf7e"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
