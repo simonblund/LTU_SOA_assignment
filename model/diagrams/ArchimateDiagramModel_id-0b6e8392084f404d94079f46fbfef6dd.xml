@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Layer overview"
+    name="Base layer overview"
     id="id-0b6e8392084f404d94079f46fbfef6dd"
     connectionRouterType="2">
   <children
@@ -1051,8 +1051,8 @@
       name="Infrastructure layer"
       textAlignment="1">
     <bounds
-        x="49"
-        y="1092"
+        x="48"
+        y="816"
         width="937"
         height="241"/>
     <children
@@ -1242,8 +1242,8 @@
       name="Application layer"
       textAlignment="1">
     <bounds
-        x="49"
-        y="828"
+        x="48"
+        y="552"
         width="937"
         height="252"/>
     <children
@@ -1485,16 +1485,5 @@
         y="1716"
         width="185"
         height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-2956770707a4411ca3ba1add08859bf6"
-      name="Integration layer"
-      textAlignment="1">
-    <bounds
-        x="50"
-        y="552"
-        width="934"
-        height="252"/>
   </children>
 </archimate:ArchimateDiagramModel>
