@@ -5,6 +5,17 @@
     id="id-593766bf81f646698f1ed74bfcc0fca3"
     connectionRouterType="2">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3ea2f420e3964102841115022647c4b1"
+      name="Grupp2 Integration Services"
+      textAlignment="1">
+    <bounds
+        x="683"
+        y="492"
+        width="278"
+        height="109"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-55af32f9c50b4e18a5fb41e2cebd37fb"
       targetConnections="id-40345762d4ad418b8282336c8f5a6845 id-78cb83ced8c14b378958ad6bed8a4b25 id-7a023d11b97e49669d93a444e08c1edc">
@@ -50,7 +61,7 @@
       targetConnections="id-3ac487466f954212964454d14907a911">
     <bounds
         x="396"
-        y="456"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -63,7 +74,7 @@
       targetConnections="id-6903f9179c664bba916cd6a8deb37ee4">
     <bounds
         x="471"
-        y="384"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -107,7 +118,7 @@
     </sourceConnections>
     <bounds
         x="1097"
-        y="456"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -129,7 +140,7 @@
     </sourceConnections>
     <bounds
         x="545"
-        y="456"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -439,7 +450,7 @@
     </sourceConnections>
     <bounds
         x="696"
-        y="456"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -461,11 +472,22 @@
     </sourceConnections>
     <bounds
         x="924"
-        y="456"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-2a91416b28b347e680b79059a337be88.xml#id-2a91416b28b347e680b79059a337be88"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-62776dcf690047048719d6a952b9a9f1"
+      textAlignment="1"
+      content="Liten ändring här så vi kan tydligt se var vårat förslag ligger. (kai)">
+    <bounds
+        x="696"
+        y="582"
+        width="189"
+        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>
