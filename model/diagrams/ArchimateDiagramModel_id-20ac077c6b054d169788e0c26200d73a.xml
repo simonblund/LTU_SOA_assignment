@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Target layer overview (new)"
+    name="Target layer overview"
     id="id-20ac077c6b054d169788e0c26200d73a">
   <children
       xsi:type="archimate:DiagramModelGroup"
