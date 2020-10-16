@@ -1078,4 +1078,15 @@
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-289aa0c0306c40e3af9ce3cf087efadc.xml#id-289aa0c0306c40e3af9ce3cf087efadc"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-635f08f8928c49f69400efeeee564ef3"
+      textAlignment="1"
+      content="testnote">
+    <bounds
+        x="912"
+        y="570"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
